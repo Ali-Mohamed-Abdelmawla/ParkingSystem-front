@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-toggle": "^4.1.3",
+    "react-transition-group": "^4.4.5"
+  }
+}
